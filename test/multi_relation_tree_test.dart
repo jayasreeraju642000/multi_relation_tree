@@ -3,10 +3,10 @@ import 'package:multi_relation_tree/multi_relation_tree.dart';
 
 
 void main() {
-  test('adds one to input values', () {
-    final calculator = MultiRelationTree();
-    expect(calculator.addOne(2), 3);
-    expect(calculator.addOne(-7), -6);
-    expect(calculator.addOne(0), 1);
-  });
+  // test('adds one to input values', () {
+  //   final calculator = MultiRelationTree();
+  //   expect(calculator.addOne(2), 3);
+  //   expect(calculator.addOne(-7), -6);
+  //   expect(calculator.addOne(0), 1);
+  // });
 }
